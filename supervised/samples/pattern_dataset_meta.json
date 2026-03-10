@@ -1,0 +1,28 @@
+{
+  "classes": [
+    "live_three",
+    "sleep_three",
+    "live_four",
+    "rush_four",
+    "double_three",
+    "four_three",
+    "double_four",
+    "five",
+    "three_plus_one",
+    "two_plus_two",
+    "two_plus_one",
+    "double_three_plus_one",
+    "double_two_plus_two",
+    "double_two_plus_one",
+    "two_plus_one_three_plus_one",
+    "live_three_three_plus_one",
+    "live_three_two_plus_one",
+    "live_three_two_plus_two",
+    "two_plus_one_two_plus_two"
+  ],
+  "num_samples": 28862,
+  "samples_per_class": 1600,
+  "noise_stones": 8,
+  "seed": 0,
+  "templates_file": "pattern_templates.json"
+}

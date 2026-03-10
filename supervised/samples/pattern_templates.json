@@ -1,0 +1,50 @@
+[
+  {
+    "id": "live_three",
+    "name_zh": "活三",
+    "template": ".XXX.",
+    "description": "两端可延展，下一步可转活四。"
+  },
+  {
+    "id": "sleep_three",
+    "name_zh": "眠三",
+    "template": "OXXX.",
+    "description": "一端被堵，威胁弱于活三。"
+  },
+  {
+    "id": "live_four",
+    "name_zh": "活四",
+    "template": ".XXXX.",
+    "description": "一步必杀型威胁。"
+  },
+  {
+    "id": "rush_four",
+    "name_zh": "冲四",
+    "template": "OXXXX.",
+    "description": "单点成五，需立即应对。"
+  },
+  {
+    "id": "double_three",
+    "name_zh": "双活三",
+    "template": "cross(.XXX.,.XXX.)",
+    "description": "同一步形成两个活三。"
+  },
+  {
+    "id": "four_three",
+    "name_zh": "四三杀",
+    "template": "mix(.XXXX.,.XXX.)",
+    "description": "四与三复合威胁。"
+  },
+  {
+    "id": "double_four",
+    "name_zh": "双四杀",
+    "template": "cross(OXXXX.,.XXXX.)",
+    "description": "双路四威胁，通常无法同手防住。"
+  },
+  {
+    "id": "five",
+    "name_zh": "连五",
+    "template": "XXXXX",
+    "description": "直接获胜。"
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "task": "gomoku_alphazero_supervised_kill_defense",
+  "classes": [
+    "live_three",
+    "sleep_three",
+    "live_four",
+    "rush_four",
+    "double_three",
+    "four_three",
+    "double_four",
+    "five",
+    "three_plus_one",
+    "two_plus_two",
+    "two_plus_one",
+    "double_three_plus_one",
+    "double_two_plus_two",
+    "double_two_plus_one",
+    "two_plus_one_three_plus_one",
+    "live_three_three_plus_one",
+    "live_three_two_plus_one",
+    "live_three_two_plus_two",
+    "two_plus_one_two_plus_two"
+  ],
+  "epochs": 12,
+  "batch_size": 256,
+  "lr": 0.0002,
+  "val_ratio": 0.15,
+  "best_val_def_hit": 0.9999208234362629,
+  "model_path": "C:\\Study\\python\\RL-Gumoku\\models\\gomoku_alphazero.pt",
+  "save_path": "C:\\Study\\python\\RL-Gumoku\\models\\gomoku_alphazero.pt"
+}
